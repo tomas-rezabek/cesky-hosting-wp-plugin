@@ -3,7 +3,7 @@
 Plugin Name: Český hosting - Plugin pro šablony
 Plugin URI: https://www.cesky-hosting.cz/
 Description: Upravuje administraci webu
-Version: 2.2.0
+Version: 2.2.1
 Author: Český hosting
 Author URI: https://www.cesky-hosting.cz/
 License: GPL2
