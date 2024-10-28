@@ -1,1 +1,1 @@
-# Plugin Českého hostingu pro práci s šablonami
+# Custom WP plugin na práci s šablonama
